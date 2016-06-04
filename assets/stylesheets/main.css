@@ -1,0 +1,45 @@
+body {
+    background-image: url("back.jpg");
+    /*background-size: 100%;*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    background-position-x: 50%;
+    background-position-y: 100%;
+    }
+h1{
+    color: #ffd343 !important;
+    background-color: #3776ab;
+
+}
+h3
+{
+    color: #e3000f;
+    font-family: serif;
+    font-style: italic;
+
+}
+h5
+{
+    color: green;
+    font-size:120%;
+    font-variant: small-caps;
+
+}
+
+/*iframe{
+    display:inline-block
+    float: left;
+}*/
+
+.video{
+    float: right;
+    display:inline-block;
+}
+.clear: {
+    clear: :both;
+}
+footer{
+    color:#666666;
+    font-size: 120%
+}
